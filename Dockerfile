@@ -9,3 +9,4 @@ EXPOSE 80
 
 # Inicia Apache
 CMD ["apache2-foreground"]
+git status
